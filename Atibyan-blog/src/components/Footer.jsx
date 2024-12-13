@@ -4,6 +4,9 @@ import { Link } from 'react-router-dom';
 import {BsFacebook, BsInstagram, BsPinterest, BsTwitterX} from 'react-icons/bs'
 
 export default function FooterComp() {
+
+
+
   return (
     <Footer className="border border-t-8 border-teal-500 flex flex-col">
         <main className='flex flex-col gap-7 w-full md:flex-row'>
