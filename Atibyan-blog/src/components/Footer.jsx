@@ -46,7 +46,7 @@ export default function FooterComp() {
     </div>
     <div>
     <Footer.Title title="Quick Link" />
-    <p classname="text-xl mt-4 md:text-sm md:text-left">Have an inspiring story or insightful article to share? We'd love to feature it on Atibyan Blog!</p>
+    <p className="text-xl mt-4 md:text-sm md:text-left">Have an inspiring story or insightful article to share? We'd love to feature it on Atibyan Blog!</p>
     <Link>
       <Button gradientDuoTone="purpleToBlue" outline>
         Share a story
